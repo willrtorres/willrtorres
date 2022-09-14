@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @willrtorres
 - 👀 I’m interested in software development/analytics.
-- 🌱 Getting a Masters in Analytics. 
+- 🌱 Graduated with a Masters in Analytics. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at wilbertrtorres@gmail.com or https://www.linkedin.com/in/willrtorres/ 
 <!---
